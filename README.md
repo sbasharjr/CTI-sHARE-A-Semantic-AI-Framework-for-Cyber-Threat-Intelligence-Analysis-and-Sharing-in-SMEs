@@ -1,5 +1,4 @@
-# CTI-sHARE-AI-driven Semantic Framework for Advanced Cyber Threat Analysis and Sharing
-
+# CTI-sHARE-A-Semantic-AI-Framework-for-Cyber-Threat-Intelligence-Analysis-and-Sharing-in-SMEs
 A comprehensive machine learning and deep learning framework for real-time cyber threat detection, analysis, and intelligence sharing.
 
 ## Overview
@@ -461,10 +460,10 @@ If you use this framework in your research, please cite:
 
 ```bibtex
 @software{threat_analysis_framework,
-  title={CTI-sHARE-AI-driven Semantic Framework for Advanced Cyber Threat Analysis and Sharing},
+  title={CTI-sHARE-A-Semantic-AI-Framework-for-Cyber-Threat-Intelligence-Analysis-and-Sharing-in-SMEs},
   author={Suleiman Sani Bashar},
   year={2025},
-  url={https://github.com/sbasharjr/CTI-sHARE-AI-driven-Semantic-Framework-for-Advanced-Cyber-Threat-Analysis-and-Sharing.git}
+  url={https://github.com/sbasharjr/CTI-sHARE-A-Semantic-AI-Framework-for-Cyber-Threat-Intelligence-Analysis-and-Sharing-in-SMEs.git}
 }
 ```
 
